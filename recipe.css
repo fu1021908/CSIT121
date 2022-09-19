@@ -1,0 +1,19 @@
+h1 { 
+    color: blue;
+    text-indent: 2em;
+font-family: Arial; 
+text-transform: capitalize;
+}
+h2 {
+	color: green;
+	text-indent: 2em;
+font-family: Arial;
+} 
+p {background-color: green;
+	color: white; }
+h3 { 
+	font-family: Arial; }
+h4 { 
+	font-family: Arial; }
+h5 {background-color: green;
+	color: white; }
